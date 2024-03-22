@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1711049350 source:c:\users\eriic\onedrive\escritorio\evaluacionlab\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711049427 c:\users\eriic\onedrive\escritorio\evaluacionlab\include\cliente.h
+	<string>
+
+1711049350 c:\users\eriic\onedrive\escritorio\evaluacionlab\include\fecha.h
+	<iostream>
+
+1711049350 c:\users\eriic\onedrive\escritorio\evaluacionlab\include\pago.h
+	"fecha.h"
+
+1711049776 c:\users\eriic\onedrive\escritorio\evaluacionlab\include\prestamo.h
+
+1711049776 source:c:\users\eriic\onedrive\escritorio\evaluacionlab\src\prestamo.cpp
+	"Prestamo.h"
+
